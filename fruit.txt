@@ -1,3 +1,5 @@
 Strawberry
-Orange
+Peach
 Blueberry
+Banana
+Apple
